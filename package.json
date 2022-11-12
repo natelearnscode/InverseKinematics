@@ -1,0 +1,14 @@
+{
+  "name": "proj3",
+  "version": "1.0.0",
+  "description": "This is a",
+  "main": "OrbitControls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/three": "^0.144.0"
+  }
+}
