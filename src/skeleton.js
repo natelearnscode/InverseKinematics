@@ -109,7 +109,4 @@ export class Skeleton {
         this.rightLegMesh.position.setY(this.root.y - 1.9);
     }
 
-    jump(dt) {
-
-    }
 }
